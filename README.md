@@ -1,6 +1,6 @@
 ## Olá! eu sou a Narda
 - 🇧🇷 / 🇵🇪
-- 💻 Procurando o meu primeiro Estágio / Buscando mi primer trabajo como aprendiz
+- 💻 Procurando o meu primeiro Estágio / Buscando mi primer trabajo como prácticante
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas / Estudiante de Análisis y Desenvolvimento de Sistemas
 - 🏚️ Universidade PUC Paraná / Universidad PUC Paraná
 - 📧 nardantonella@gmail.com
