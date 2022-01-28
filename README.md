@@ -2,7 +2,6 @@
 - 🇧🇷 / 🇵🇪
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas / Estudiante de Análisis y Desenvolvimento de Sistemas
 - 🏚️ Universidade PUC Paraná / Universidad PUC Paraná
-- 📧 nardantonella@gmail.com
  <div>
 <div align="center">
   <a href="https://github.com/Narda-Antonella">
@@ -20,7 +19,6 @@
   ##
   
 </div>  
-<a href ="mailto:nardantonella@gmail.com"target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nardaantonella/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
