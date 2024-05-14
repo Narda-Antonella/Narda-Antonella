@@ -1,7 +1,6 @@
 ## Olá! eu sou a Narda
-- 🇧🇷 / 🇵🇪
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas / Estudiante de Análisis y Desenvolvimento de Sistemas
-- 🏚️ Universidade PUC Paraná / Universidad PUC Paraná
+- 📚 Software Engineer | Front-End Developer 
+- 🏚️ Universidade PUC Paraná 
  <div>
 <div align="center">
   <a href="https://github.com/Narda-Antonella">
