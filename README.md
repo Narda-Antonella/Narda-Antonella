@@ -1,6 +1,6 @@
 ## Olá! eu sou a Narda
 - 📚 Software Engineer | Front-End Developer 
-- 🏚️ Universidade PUC Paraná 
+- 💼 Grupo OLX
  <div>
 <div align="center">
   <a href="https://github.com/Narda-Antonella">
